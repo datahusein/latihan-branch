@@ -1,4 +1,3 @@
 # repository untuk latihan membuat branch baru
 yuk semangat<br>
-modulnya masih banyak<br>
-hehehheh<br>
+modulnya masih banyak
